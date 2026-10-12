@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "preparedAt": "2026-10-12T02:36:01.794057+00:00",
+  "owningPr": "https://github.com/ForgeaXGame/forgeax-engine/pull/3755",
+  "images": [
+    {
+      "index": 1,
+      "alt": "Native Kernel retirement and complete result-return allocation",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/e5e546b46df883141bcd92a2a46ccf3686b6017c4be1ce2b/files/artifacts/roi-23/memory-host-kernel-json-20261012/public/native-owner-and-return.png",
+      "path": "assets/01-native-owner-and-return.png",
+      "bytes": 93780,
+      "sha256": "67c2b0a3f3a3e50593c3572beadfd21a4541d2adc98c417f7ee555b6e9d0b492"
+    },
+    {
+      "index": 2,
+      "alt": "Complete4dfd native RSS timeline",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/e5e546b46df883141bcd92a2a46ccf3686b6017c4be1ce2b/files/artifacts/roi-23/memory-host-kernel-json-20261012/public/complete-4dfd-rss.png",
+      "path": "assets/02-complete-4dfd-rss.png",
+      "bytes": 68420,
+      "sha256": "734c64237ff4894d75356c07a39fe4f9fd563716059ac61b283bf5bfa6832fd8"
+    },
+    {
+      "index": 3,
+      "alt": "Complete4dfd actual native UI",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/e5e546b46df883141bcd92a2a46ccf3686b6017c4be1ce2b/files/artifacts/roi-23/memory-host-kernel-json-20261012/public/complete-4dfd-native.png",
+      "path": "assets/03-complete-4dfd-native.png",
+      "bytes": 501782,
+      "sha256": "e18f010db9d6d0f4172439bae91bfc86576e63920d6a98de906082ff30171f81"
+    },
+    {
+      "index": 4,
+      "alt": "Actual native result-return allocations",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/7cedd5823aed15bc8f80fd7f6a67624852c5b75ef338ed44/files/artifacts/roi-23/memory-acknowledged-results-20261012/public/result-return-comparison.png",
+      "path": "assets/04-result-return-comparison.png",
+      "bytes": 42251,
+      "sha256": "9c47946bc99a75993ba9ae064b775a4df0d38b3e70c73f222a063e88537b5562"
+    },
+    {
+      "index": 5,
+      "alt": "Complete569 original native workload RSS",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/7cedd5823aed15bc8f80fd7f6a67624852c5b75ef338ed44/files/artifacts/roi-23/memory-acknowledged-results-20261012/public/complete-569-rss.png",
+      "path": "assets/05-complete-569-rss.png",
+      "bytes": 63400,
+      "sha256": "9f0f551fb57ec5195eaddd37501523b0def1b9dd5f898bee6116cd0d7899b29d"
+    },
+    {
+      "index": 6,
+      "alt": "Native allocation owners: matched Worker pools and complete PCM export",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/2e49ff980e638d7e6f458657ff3239571ea91a3a651918ab/files/artifacts/roi-23/memory-second-query-and-pcm-20261012/public/native-memory-owner-comparison.png",
+      "path": "assets/06-native-memory-owner-comparison.png",
+      "bytes": 139640,
+      "sha256": "fbc771e1873c30b9ede5ebd781e49681fcd2f7893eea1e43e547f45e78c3cc97"
+    },
+    {
+      "index": 7,
+      "alt": "Complete d0b original native workload RSS",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/2e49ff980e638d7e6f458657ff3239571ea91a3a651918ab/files/artifacts/roi-23/memory-second-query-and-pcm-20261012/public/complete-d0b-rss.png",
+      "path": "assets/07-complete-d0b-rss.png",
+      "bytes": 62415,
+      "sha256": "ea3e62ae36991ecc6b31a74c3a8c52589b8796b7201fb22cc46a507ea03f793b"
+    },
+    {
+      "index": 8,
+      "alt": "Real d0b native App, audio and cost result",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/2e49ff980e638d7e6f458657ff3239571ea91a3a651918ab/files/artifacts/roi-23/memory-second-query-and-pcm-20261012/public/complete-d0b-native.png",
+      "path": "assets/08-complete-d0b-native.png",
+      "bytes": 505610,
+      "sha256": "48c85d677bb805f6a2f7d8593284dc70352b14109a55cd8a91e0b73c90372ac9"
+    },
+    {
+      "index": 9,
+      "alt": "Exact 3efd native App, PCM and interleaved cost matrix",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/a0f334839a9c6a408e86b94df0aa864a27fbbc201a76c21d/files/artifacts/roi-23/memory-full-3efd-20261011/native-signal-and-cost.png",
+      "path": "assets/09-native-signal-and-cost.png",
+      "bytes": 507072,
+      "sha256": "5886cf76a6e2d3ba7824672ea5b9dae626a1efd7212b702a7052c829fde8c8db"
+    },
+    {
+      "index": 10,
+      "alt": "RSS across the complete original native workload",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/a0f334839a9c6a408e86b94df0aa864a27fbbc201a76c21d/files/artifacts/roi-23/memory-full-3efd-20261011/public/memory-series.svg",
+      "path": "assets/10-memory-series.svg",
+      "bytes": 8959,
+      "sha256": "4a442a610c13518f538c65446efcad03097ea0f85b780b15045008b8d0f516ae"
+    },
+    {
+      "index": 11,
+      "alt": "Native memory comparison",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/f62bb78eaef24ca7a8ebf1f531ae15cec5570072a337ba27/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/memory-report-20261011/native-memory-comparison.png",
+      "path": "assets/11-native-memory-comparison.png",
+      "bytes": 112645,
+      "sha256": "48b6a8ee8f5d1449c01d84e6165822e69fe6b11f8337fee8489f5c3fa88a9703"
+    },
+    {
+      "index": 12,
+      "alt": "Full native workload RSS observations",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/19574def70a33b34473d91f779916ef4871f291362b818ba/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/memory-full-cfa2583-20261011/public/memory-series.svg",
+      "path": "assets/12-memory-series.svg",
+      "bytes": 9450,
+      "sha256": "38d822f42e2e91f2030f6fbac5068cc88df10486f70dd9d66e0b4d0ad0ec09c0"
+    },
+    {
+      "index": 13,
+      "alt": "Full native music probe PASS and complete diagnostic timing matrix",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/19574def70a33b34473d91f779916ef4871f291362b818ba/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/memory-full-cfa2583-20261011/native-signal-and-cost.png",
+      "path": "assets/13-native-signal-and-cost.png",
+      "bytes": 507762,
+      "sha256": "7e0b057ff455bb422b62748cf408688b4566e75f3a47307ea40351461b59cb90"
+    },
+    {
+      "index": 14,
+      "alt": "Actual standard Worker native result",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/11a50c1fc74d39ceac888a0ccc90cfe1c1a6e38e0996fa3d/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/post-cfa-observer-candidate/public/native-worker-standard-green.png",
+      "path": "assets/14-native-worker-standard-green.png",
+      "bytes": 656685,
+      "sha256": "b843f3d229d754f2d8ed305094f8030e8aa8207a6e9ec1cd4478f85fd7fd78fc"
+    },
+    {
+      "index": 15,
+      "alt": "SDK source first-frame timeout, captured after the failed deadline",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/0b3cbf08a3258fc0261c8619b7fea5d982966e05e201cae6/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/ci-49712b/public/game-3d-readiness-failure.png",
+      "path": "assets/15-game-3d-readiness-failure.png",
+      "bytes": 45042,
+      "sha256": "659846db8a1005c7a2280c93865cbabee0261cbd022ada1537e3550ed119d17a"
+    },
+    {
+      "index": 16,
+      "alt": "Capability Lab after the original failed first-frame deadline",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/b219727fb0b9766e3973b1b7ebbf6d837d7c63370ac7fe32/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/ci-cfa/public/game-capability-lab-readiness-failure.png",
+      "path": "assets/16-game-capability-lab-readiness-failure.png",
+      "bytes": 50533,
+      "sha256": "718b4ed9778ae83e007ba69d819e600ebac3dcf0fa4b7fadbb395e201d68c75c"
+    },
+    {
+      "index": 17,
+      "alt": "Native A/B waveform and spectrum",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/125f3347e0aa65a438cce27538f796cfaa08f5c1646f2dba/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/effects-diagnostic-current10/analysis/native-listening-waveform-spectrum.png",
+      "path": "assets/17-native-listening-waveform-spectrum.png",
+      "bytes": 300866,
+      "sha256": "a219396f3dfb02e286087655e5ac730903d47ea416ba11076111bb5584961ce0"
+    },
+    {
+      "index": 18,
+      "alt": "Native onset and envelope error",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/125f3347e0aa65a438cce27538f796cfaa08f5c1646f2dba/files/.worktrees/roi-23-quantized-music/artifacts/roi-23/effects-diagnostic-current10/analysis/native-onset-and-envelope-errors.png",
+      "path": "assets/18-native-onset-and-envelope-errors.png",
+      "bytes": 167284,
+      "sha256": "ad8651c2b2d5af8dac12dcc86bd28017000401d8ca0f85208c14d9da927ddeb7"
+    },
+    {
+      "index": 19,
+      "alt": "Current23 App matrix and PCM oracle",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/90d647cfb40d1dc8b7044b79892875e7fdd53c6b8e1797a0/files/.worktrees/roi-23-quantized-music/packages/audio-webaudio/bench/music/evidence/current23-147031c-full-native-20261011/current23-app-matrix.svg",
+      "path": "assets/19-current23-app-matrix.svg",
+      "bytes": 7793,
+      "sha256": "f0f6ecddedb6d22a827d1ad819afb24f617b0e7e97e70bc77461d5329dd7012e"
+    },
+    {
+      "index": 20,
+      "alt": "Current23 five-round timing diagnostics",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/90d647cfb40d1dc8b7044b79892875e7fdd53c6b8e1797a0/files/.worktrees/roi-23-quantized-music/packages/audio-webaudio/bench/music/evidence/current23-147031c-full-native-20261011/current23-performance-diagnostic.svg",
+      "path": "assets/20-current23-performance-diagnostic.svg",
+      "bytes": 13666,
+      "sha256": "f5c1c53122c2759a2156133a7671f57ae68b49944fe14a8432ee8804c0983fcd"
+    },
+    {
+      "index": 21,
+      "alt": "Current23 heap and renderer RSS observations",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/90d647cfb40d1dc8b7044b79892875e7fdd53c6b8e1797a0/files/.worktrees/roi-23-quantized-music/packages/audio-webaudio/bench/music/evidence/current23-147031c-full-native-20261011/current23-heap-diagnostic.svg",
+      "path": "assets/21-current23-heap-diagnostic.svg",
+      "bytes": 4265,
+      "sha256": "1972b069aa5197cb2c35a8d68a170209785b82b3036da996fe9e35a8f6550e65"
+    },
+    {
+      "index": 22,
+      "alt": "Real material live output(left) and fresh Dawn replay(right)",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/80d3950e6249e21712496509f40cdd9ba8d6646ef19972ea/files/artifacts/roi-23/main-f11-integration/positive-material-rhi/public/compare.png",
+      "path": "assets/22-compare.png",
+      "bytes": 349527,
+      "sha256": "359152d83df60fc13ce47e45fbfb050e81ac3ec7bacc225f77d04a3f3f5b727f"
+    },
+    {
+      "index": 23,
+      "alt": "Native post-close Worker memory pools",
+      "originalUrl": "https://ubpa.devcloud.woa.com/share/fe2cdb7404948d0c4cc0e8bb2640d926a09f40e88b5f100a/files/artifacts/roi-23/memory-infra-d846-20261012/public/worker-memory-pools.png",
+      "path": "assets/23-worker-memory-pools.png",
+      "bytes": 92894,
+      "sha256": "3b5d3da9f717ca82a1bd904c958d1ae683403ea78e0fa26f7e93cc4b0dc5a991"
+    }
+  ]
+}
